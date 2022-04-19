@@ -14,3 +14,7 @@
 - Use the `assert()` macro to verify assumptions about the behavior of code.
 - First define your assumptions, verify them, and then implement them.
   That is called TDD - Test-Driven Development
+
+## References
+- ISO/IEC 9899:yyyy http://www.open-std.org/jtc1/sc22/wg14/www/docs/n2731.pdf
+  - 7.2 Diagnostics `<assert.h>`
