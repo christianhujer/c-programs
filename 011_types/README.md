@@ -9,6 +9,12 @@ The arithmetic types defined by ISO/IEC 9899:202x are:
 - The _standard floating types_ `float`, `double`, and `long double` (which typically adhere to _IEEE 754_ aka _ISO/IEC 60559_).
 - The integer and floating types are colelctively called _arithmetic types_.
 
+Note:
+This program intentionally has no test.
+The actual size of the various types is, apart from a few constraints about the order of their size, implementation-defined.
+
 ## References
 - ISO/IEC 9899:yyyy http://www.open-std.org/jtc1/sc22/wg14/www/docs/n2731.pdf
+  - 3.4.1 implementation-defined behavior
   - 6.2.5 Types
+  - 6.7.2 Type specifiers
