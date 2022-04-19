@@ -11,3 +11,7 @@ This program shows you a simple "Hello, world!" program in C.
   Note: Some other examples instead use `printf("Hello, world!\n");`.
   In this context, this has the same effect.
   However, `puts()` is simpler.
+- To compile the program, you can do any of the following:
+  - If your system has `make` and C compiler, you can run `make hello` or, as a `Makefile` is present, just `make`.
+  - If you have a standard C compiler, you can run `cc -o hello hello.c`.
+  - Or else, you can just try the _Run_ feature of your C IDE.
