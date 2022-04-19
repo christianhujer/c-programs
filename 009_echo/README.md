@@ -37,3 +37,4 @@ The `echo` program prints its arguments on a single line, concatenated with `" "
   - 5.1.2.2.1 Program startup
   - 5.2.2 Character display semantics
   - 7.21.7.4 The `fputs` function
+- Unicode code chart C0 Controls and Basic Latin (ASCII) https://unicode.org/charts/PDF/U0000.pdf
