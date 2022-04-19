@@ -1,4 +1,4 @@
-# Echo
+# Echo (buffered)
 
 This version of the `echo` program fixes a potential issue of the previous version.
 The previous version might have sub-optimal behavior in a multitasking environment when mutliple programs share the same output stream.
