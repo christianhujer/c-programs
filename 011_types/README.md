@@ -1,6 +1,6 @@
 # 011 Types
 
-This program prints the sizes of the various types arithmetic types.
+This program prints the sizes of the various arithmetic types.
 The arithmetic types defined by ISO/IEC 9899:202x are:
 - `_Bool`, large enough to store the values 0 and 1
 - The _standard signed integer types_ `signed char`, `short int`, `int`, `long int`, and `long long int`.
