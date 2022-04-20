@@ -1,5 +1,11 @@
 # 004 Leap Year
 
+Note: This is not the most elegant form of the algorithm.
+See the next two versions, [005_leapyear](../005_leapyear/) and [006_leapyear](../006_leapyear) for better versions.
+
+Also note: In real world projects, the test code and the production code would live in separate files, and different test cases would be executable separately.
+We will learn later how to do that.
+
 ## 3 Laws of TDD
 > 1. You are not allowed to write any production code unless it is to make a failing unit test pass.
 > 1. You are not allowed to write any more of a unit test than is sufficient to fail; and compilation failures are failures.

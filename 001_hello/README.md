@@ -2,6 +2,9 @@
 
 This program shows you a simple "Hello, world!" program in C.
 
+Note: This is not the best version of the "Hello, world!" program.
+See the [002-hello](../002-hello/) for a nicer version.
+
 ## New elements
 - Use `#include` to include library headers.
 - Include the `<stdio.h>` library header to get access to I/O-related library definitions like the `puts()` function.
